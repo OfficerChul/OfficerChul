@@ -1,7 +1,8 @@
 KCJ © 2022
-# <p align = "center"> Welcome to OfficerChul's GitHub!!<br /><img src = "https://github.com/OfficerChul/OfficerChul/blob/main/images/logo.png?raw=true" width = "250"> </p>
+# <p align = "center"> 💻Welcome to OfficerChul's GitHub!!💻<br /><img src = "https://github.com/OfficerChul/OfficerChul/blob/main/images/logo.png?raw=true" width = "250"> </p>
 
-> I am Kyochul majoring in Computer Science, especially Machine Learning, and minoring in Mathematics @ Purdue University. My interest firmly lies in Brain-Computer Science (BCI) field. I am going to conduct BCI-related research at Seoul National University (SNU) this summer. Moreover, I am also a very passionate full stack developer. <br />If anyone feels interested in me, feel free to reach out to me via the following contacts! I have tons of marvelous ideas in my brain.
+##
+
 <p align = "center">
     <a href = "https://www.instagram.com/kjang_hochul/">
         <img align = "center" alt = "Kyochul's instagram" width = "22px"
@@ -25,10 +26,13 @@ KCJ © 2022
     </a>
     <a href = "mailto:gcj1234567890@gmail.com">
         <img align = "center" alt = "Kyochul's email" width = "22px"
-        src = "https://img.icons8.com/ios/344/new-post.png">
+        src = "https://cdn-icons-png.flaticon.com/512/726/726623.png">
     </a>
 </p>
 
+> I am Kyochul majoring in Computer Science, especially Machine Learning, and minoring in Mathematics @ Purdue University. My interest firmly lies in Brain-Computer Science (BCI) field. I am going to conduct BCI-related research at Seoul National University (SNU) this summer. Moreover, I am also a very passionate full stack developer. <br />If anyone feels interested in me, feel free to reach out to me via the following contacts! I have tons of marvelous ideas in my brain.
+
+##
 ## <p align = "center"> GitHub Stats </p>
 
 <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=OfficerChul&amp;show_icons=true" alt="GitHub Stats"></p>
