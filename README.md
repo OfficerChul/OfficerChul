@@ -1,5 +1,5 @@
 KCJ © 2022
-# <p align = "center"> 💻Welcome to OfficerChul's GitHub!!💻<br /><img src = "https://github.com/OfficerChul/OfficerChul/blob/main/images/logo.png?raw=true" width = "250"> </p>
+# <p align = "center"> 💻Welcome to OfficerChul's GitHub!!💻<br /><img src = "https://github.com/OfficerChul/OfficerChul/blob/main/images/logo.png?raw=true" width = "250"> <img src = "https://github.com/OfficerChul/OfficerChul/blob/main/images/myPicture.jpg?raw=true" width = "250" style = "border-radius: 10%"></p>
 
 <p align = "center">
     <a href = "https://www.instagram.com/kjang_hochul/">
@@ -28,13 +28,22 @@ KCJ © 2022
     </a>
 </p>
 
+## <p align = "center"> My Tech Stacks :books:</p>
+
+<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+
 ##
 
-> I am Kyochul majoring in Computer Science, especially Machine Learning, and minoring in Mathematics @ Purdue University. My interest firmly lies in Brain-Computer Science (BCI) field. I am going to conduct BCI-related research at Seoul National University (SNU) this summer. Moreover, I am also a very passionate full stack developer. <br />If anyone feels interested in me, feel free to reach out to me via the following contacts! I have tons of marvelous ideas in my brain.
+> Hi, I am Kyochul majoring in Computer Science, especially Machine Learning, and minoring in Mathematics @ Purdue University. I was born in Seoul, Korea 🇰🇷. When I was 12 years old, I moved to China and spent my childhood in Beijing, China 🇨🇳. When I became 18, I came to the USA 🇺🇸 for studying Computer Science in Purdue University! <br /> My interest firmly lies in Brain-Computer Interface (BCI) field. I am going to conduct BCI-related research at Seoul National University (SNU) this summer. Moreover, I am trying hard to be a very professional full-stack developer and ML programmer! I am also tutoring web developement. <br />If anyone feels interested in me, feel free to reach out to me via the following contacts! I have tons of marvelous project ideas and business ideas in my brain!
+
+> 안녕하세요! 저는 Purdue Unviersity에서 Computer Science 전공 (Machine Learning 세부전공) 과 수학 부전공을 하고 있는 장교철이라고 합니다. 저는 서울에서 태어나 만 12살에 중국으로 가서 로컬 중학교와 국제 고등학교를 졸업하고 18살에 미국으로 Computer Science를 공부하러 대학교에 왔습니다. <br /> 저는 뇌-컴퓨터 인터페이스(BCI)에 관심이 있고, 이번 여름에 서울대학교 BCI 랩실에서 학부 인턴을 할 계획입니다. 또한, 전문적인 풀 스택과 머신러닝 개발자가 되기 위해 열심히 노력하고 있고 현재 웹 개발 튜터링을 하고 있습니다. <br /> 저에게 흥미가 생기셨거나 질문이 있으시다면 언제든지 아래의 연락처로 연락 주세요! 수많은 아이디어들이 제 머릿속을 헤엄치고 있습니다!
 
 ## <p align = "center"> 📊 GitHub Stats :chart_with_downwards_trend: </p>
 
 <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=OfficerChul&amp;show_icons=true" alt="GitHub Stats"></p>
+
+<h3 align="center">Buy me a coffee! 💰</h3>
+<p align = "center"><a href="https://www.buymeacoffee.com/OfficerChul"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="OfficerChul" /></a></p><br><br>
 
 
 <!---
