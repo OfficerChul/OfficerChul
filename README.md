@@ -14,7 +14,7 @@ KCJ © 2022
 <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=OfficerChul&amp;show_icons=true" alt="GitHub Stats"></p>
 
 <h3 align="center">Buy me a coffee! 💰</h3>
-<p align = "center"><a href="https://www.buymeacoffee.com/OfficerChul"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="OfficerChul" /></a></p><br><br>
+<p align = "center"><a href="https://www.buymeacoffee.com/gcj12345671"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="OfficerChul" /></a></p><br><br>
 
 
 <!---
