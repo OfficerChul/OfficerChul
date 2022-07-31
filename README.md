@@ -1,5 +1,5 @@
 KCJ © 2022
-# <p align = "center"> 💻Welcome to OfficerChul's GitHub!!💻<br /><br /><img src = "https://github.com/OfficerChul/OfficerChul/blob/main/images/logo.png?raw=true" width = "250"> <img src = "https://github.com/OfficerChul/OfficerChul/blob/main/images/myPicture.jpg?raw=true" width = "250" style = "border-radius: 10%"></p>
+# <p align = "center"> 💻Welcome to OfficerChul's GitHub!!💻<br /><br /><img src = "https://github.com/OfficerChul/OfficerChul/blob/main/images/DALL_E_2022-07-31_14.00.11-removebg-preview.png" width = "250"> <img src = "https://github.com/OfficerChul/OfficerChul/blob/main/images/myPicture.jpg?raw=true" width = "250" style = "border-radius: 10%"></p>
 
 > Hi, I am Kyochul majoring in Computer Science, especially Machine Learning, and minoring in Mathematics @ Purdue University. I was born in Seoul, Korea 🇰🇷. When I was 12 years old, I moved to China and spent my childhood in Beijing, China 🇨🇳. When I became 18, I came to the USA 🇺🇸 for studying Computer Science in Purdue University and I am really enjoying the major! <br /> My interest firmly lies in Brain-Computer Interface (BCI) field. I am going to conduct BCI-related research at Seoul National University (SNU) this summer. Moreover, I am trying hard to be a very professional full-stack developer and ML programmer! I am also tutoring web developement. <br />If anyone feels interested in me, feel free to reach out to me via the following contacts! I have a lot of brilliant ideas in my mind!
 
@@ -14,6 +14,13 @@ KCJ © 2022
 <h3 align="center">Buy me a coffee! 💰</h3>
 <p align = "center"><a href="https://www.buymeacoffee.com/gcj12345671"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="OfficerChul" /></a></p><br><br>
 
+## <p align = "center">🌞 Logo Chronicle</p>
+
+- The First Logo
+<img src = "https://github.com/OfficerChul/OfficerChul/blob/main/images/logo.png?raw=true" width = "250">
+
+- Since July 31th,
+<img src = "https://github.com/OfficerChul/OfficerChul/blob/main/images/DALL_E_2022-07-31_14.00.11-removebg-preview.png" width = "250">
 
 <!---
 OfficerChul/OfficerChul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
