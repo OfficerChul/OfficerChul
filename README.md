@@ -1,5 +1,5 @@
 KCJ © 2022
-# <p align = "center"> 💻Welcome to OfficerChul's GitHub!!💻 <br /><br /> <a href='www.kyochuljang.com'><img src="https://github.com/OfficerChul/OfficerChul/blob/main/images/banner.png?raw=true" /></a><br /><br />
+# <p align = "center"> 💻Welcome to OfficerChul's GitHub!!💻 <br /><br /> <a href='https://kyochuljang.com/'><img src="https://github.com/OfficerChul/OfficerChul/blob/main/images/banner.png?raw=true" /></a><br /><br />
 
 > Hi, I am Kyochul majoring in Computer Science, especially Machine Learning, and minoring in Mathematics @ Purdue University. I was born in Seoul, Korea 🇰🇷. When I was 12 years old, I moved to China and spent my childhood in Beijing, China 🇨🇳. When I became 18, I came to the USA 🇺🇸 for studying Computer Science in Purdue University and I am really enjoying the major! <br /> My interest firmly lies in Brain-Computer Interface (BCI) field. I am going to conduct BCI-related research at Seoul National University (SNU) this summer. Moreover, I am trying hard to be a very professional full-stack developer and ML programmer! I am also tutoring web developement. <br />If anyone feels interested in me, feel free to reach out to me via the following contacts! I have a lot of brilliant ideas in my mind!
 
