@@ -1,24 +1,26 @@
-KCJ © 2022
-# <p align = "center"> 💻Welcome to OfficerChul's GitHub!!💻 <br /><br /> <a href='https://kyochuljang.com/'><img src="https://github.com/OfficerChul/OfficerChul/blob/main/images/banner.png?raw=true" /></a><br /><br />
+<p align="center">
+  <a href="https://www.kyochul.com/"><img src="images/kyochul-symbol.png" width="120" alt="Kyochul" /></a>
+</p>
+<h1 align="center">Kyochul Jang</h1>
+<p align="center">AI that lives in the real world.</p>
+<p align="center">
+  <a href="https://www.kyochul.com/">Website</a> ·
+  <a href="https://www.kyochul.com/Kyochul_Jang___CV.pdf">CV</a> ·
+  <a href="https://scholar.google.com/citations?user=N8R4s1kAAAAJ">Scholar</a> ·
+  <a href="https://www.linkedin.com/in/kyochul-jang/">LinkedIn</a> ·
+  <a href="mailto:kyochul@snu.ac.kr">Email</a>
+</p>
 
-I'm currently pursuing a Master's in Artificial Intelligence at Seoul National University (SNU), after completing my Bachelor of Science in Computer Science (specializing in Machine Learning) with a minor in Mathematics at Purdue University.
+I'm a PhD researcher in Artificial Intelligence at **Seoul National University**, working with Prof. Youngjae Yu at [SNU PI Lab](https://pi.snu.ac.kr/). I received my BS in Computer Science from Purdue University in 2023.
 
-I was born in Seoul, Korea 🇰🇷, and at age 12, I moved to Beijing, China 🇨🇳, where I completed middle and international high school. At 18, I moved to the USA 🇺🇸 to study Computer Science at Purdue, where I deepened my passion for Machine Learning and Artificial Intelligence.
+My research focuses on **Physical Agentic AI and Action Generation**. I want to build physical agents that work reliably in everyday life, combining models that deeply understand actions with systems that use them effectively.
 
-My research interests center on Brain-Computer Interfaces (BCI) and AI-human interaction. Currently, I'm a graduate researcher at the HCC Lab at SNU, focusing on evaluating the capabilities of Large Language Models (LLMs). Previously, I conducted research at DMIS Lab (Korea University) on text-to-SQL generation and long-context understanding by LLMs.
+My work spans humanoid tool use, mobile GUI agents, and LLM tool calling:
 
-I'm also passionate about teaching, having tutored web development and served as an Undergraduate Teaching Assistant at Purdue University.
+- **[HumanoidToolBench](https://snu-pi.github.io/HumanoidToolBench/)** · First author · Benchmarking humanoid tool use from selection to mobile execution (2026 preprint).
+- **[DICE-BENCH](https://github.com/snuhcc/DICE-Bench)** · First author · Evaluating tool use in multi-round, multi-party dialogues (ACL 2025 Findings).
+- **Mobile GUI Agents** · SKT AI Fellowship · On-device Android agents that navigate apps to find restaurants and make reservations.
 
-Feel free to reach out or connect with me below if you're interested in collaboration or have any questions! 🌟
+I've lived in Korea, China, and the US, and speak Korean, English, and Chinese. I also teach at SNU and enjoy turning research ideas into usable systems.
 
-
-## <p align = "center"> My Tech Stacks :books:</p> <p align = "center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
-
-## <p align = "center"> 📊 GitHub Stats :chart_with_downwards_trend:<br /><br /> <img src="https://github-readme-stats.vercel.app/api?username=OfficerChul&amp;show_icons=true" alt="GitHub Stats"></p>
-
-<h3 align="center">Buy me a coffee! 💰</h3>
-<p align = "center"><a href="https://www.buymeacoffee.com/gcj12345671"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="OfficerChul" /></a></p><br><br>
-<!---
-OfficerChul/OfficerChul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Research notes and thoughts live in [Action Space](https://www.kyochul.com/blog). For collaborations, reach me at **[kyochul@snu.ac.kr](mailto:kyochul@snu.ac.kr)**.
