@@ -1,8 +1,6 @@
 <p align="center">
-  <a href="https://www.kyochul.com/"><img src="images/kyochul-symbol.png" width="120" alt="Kyochul" /></a>
+  <a href="https://www.kyochul.com/"><img src="images/kyochul-banner.png" width="100%" alt="Kyochul — AI that lives in the real world." /></a>
 </p>
-<h1 align="center">Kyochul Jang</h1>
-<p align="center">AI that lives in the real world.</p>
 <p align="center">
   <a href="https://www.kyochul.com/">Website</a> ·
   <a href="https://www.kyochul.com/Kyochul_Jang___CV.pdf">CV</a> ·
