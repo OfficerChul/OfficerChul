@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.kyochul.com/"><img src="images/kyochul-banner.png" width="100%" alt="Kyochul — AI that lives in the real world." /></a>
+  <a href="https://www.kyochul.com/"><img src="images/kyochul-banner-rounded.png" width="100%" alt="Kyochul — AI that lives in the real world." /></a>
 </p>
 <p align="center">
   <a href="https://www.kyochul.com/">Website</a> ·
